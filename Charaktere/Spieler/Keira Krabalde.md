@@ -30,7 +30,6 @@ Am Hof lernte sie, was von einer Zofe erwartet wurde: höfische Etikette, Lesen 
 
 Zunächst blieb sie nur, weil sie Arbeit fand. Mit der Zeit aber wurde das Dorf zu ihrem Zuhause. Eine richtige Familie hatte sie nie, doch zum ersten Mal fühlte sie sich als Teil einer Gemeinschaft.
 
-
 Sie half, wo immer Unterstützung gebraucht wurde: Feuerholz sammeln, entlaufene Tiere suchen, sich um ältere Dorfbewohner kümmern. Besonders viel Zeit verbrachte sie bei der Kräuterkundlerin des Dorfes, von der sie den Umgang mit Heilpflanzen, Salben und einfachen Heilmethoden lernte. Gleichzeitig erzählte ihr die alte Frau Geschichten über Geister, alte Magie, den Neverwood und die Bedrohung durch dunkle Mächte in den Wäldern. Ob alles davon wahr war, wusste Keira nie genau, aber sie hörte immer aufmerksam zu.
 
 Immer wieder fand sie auch Obdach und Hilfe bei Blanche und **Roselia**:
@@ -46,13 +45,11 @@ Von anderen Dorfbewohnern lernte sie außerdem das Spiel der Panflöte und über
   
 
 ---
-
   
 
 ## Zuya und der Pakt
 
   
-
 Mit den Jahren wurde Baba Hildas Einfluss rund um das Dorf immer deutlicher spürbar: Trolle wurden häufiger gesichtet, freie Völkler verschwanden im Wald, Flüche trafen immer mehr Bewohner. Keira konnte kaum mit ansehen, wie ihre neue Heimat unter diesem Einfluss litt.
 
   
