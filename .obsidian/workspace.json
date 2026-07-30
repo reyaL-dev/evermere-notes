@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "Charaktere/NPC/Entitäten/Zuya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keira Krabalde"
+              "title": "Zuya"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "Charaktere/NPC/Entitäten/Zuya.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,19 +184,20 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "20c936d9497f0029",
+  "active": "b160ab238cab93dd",
   "lastOpenFiles": [
-    "Charaktere/Spieler/Dalia Lunaria.md",
+    "Charaktere/NPC/Entitäten/Baba Hilda.md",
+    "Charaktere/NPC/Entitäten/Zuya.md",
     "Charaktere/Spieler/Corvina.md",
+    "Charaktere/Spieler/Vényáma.md",
     "Charaktere/Spieler/Keira Krabalde.md",
+    "Charaktere/Spieler/Dalia Lunaria.md",
     "Bilder/Keira_Bild.png",
     "2026-07-30.md",
     "Unbenannt.base",
     "Willkommen.md",
-    "Charaktere/NPC/Entitäten/Zuya.md",
     "Charaktere/NPC/Freie Völker",
     "Charaktere/Spieler/Leryn Linmund.md",
-    "Charaktere/Spieler/Vényáma.md",
     "Charaktere/Spieler/Valdrik Eldefur.md",
     "Unbenannt.canvas",
     "Quests",
