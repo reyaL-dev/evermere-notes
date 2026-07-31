@@ -11,10 +11,14 @@
             "id": "b160ab238cab93dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Charaktere/NPC/Entitäten/Zuya.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Zuya"
             }
           }
         ]
@@ -182,11 +186,11 @@
   },
   "active": "fd44d59f2f3d1562",
   "lastOpenFiles": [
-    "Unbenannt 1.base",
+    "Charaktere/NPC/Entitäten/Baba Hilda.md",
     "Unbenannt.base",
+    "Unbenannt 1.base",
     "Unbenannt 2.base",
     "Charaktere/NPC/Entitäten/Zuya.md",
-    "Charaktere/NPC/Entitäten/Baba Hilda.md",
     "Bilder/Zuya_Bild.png",
     "Charaktere/Spieler/Dalia Lunaria.md",
     "Charaktere/Spieler/Corvina.md",
@@ -207,7 +211,6 @@
     "Charaktere/NPC/Entitäten",
     "Charaktere/NPC",
     "Orte/Land/Neverwood.md",
-    "Orte/Land",
-    "Orte"
+    "Orte/Land"
   ]
 }
