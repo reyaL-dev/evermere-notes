@@ -2,7 +2,8 @@
   "folderPresets": [
     {
       "name": "Bilder",
-      "type": "SUBFOLDER"
+      "type": "CUSTOM",
+      "customTemplate": "z_Bilder/{imagename}"
     },
     {
       "type": "DEFAULT",

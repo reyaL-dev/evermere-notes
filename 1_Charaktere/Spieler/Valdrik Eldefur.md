@@ -1,16 +1,16 @@
 ---
 name: Valdrik Eldefur
 aliases:
-pronomen:
+pronomen: er / ihm
 spieler: ultraernst
-rasse: unbekannt
+rasse:
 rang:
-rolle: unbekannt
+rolle:
 klasse:
 alter:
 ort:
-status:
-gruppe: unbekannt
+status: lebend
+gruppe:
 tags:
   - charakter
   - spieler

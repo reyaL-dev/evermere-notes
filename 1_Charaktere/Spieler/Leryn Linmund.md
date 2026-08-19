@@ -1,11 +1,11 @@
 ---
 name: Leryn Linmund
 aliases:
-pronomen:
+pronomen: er / ihm
 spieler: Tyo
-rasse: unbekannt
+rasse:
 rang:
-rolle: unbekannt
+rolle:
 klasse:
 alter:
 ort:

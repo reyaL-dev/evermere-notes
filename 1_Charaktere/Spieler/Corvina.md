@@ -1,16 +1,16 @@
 ---
 name: Corvina
 aliases:
-pronomen:
+pronomen: sie / ihr
 spieler: Finn
-rasse: unbekannt
+rasse:
 rang:
-rolle: unbekannt
+rolle:
 klasse:
 alter:
 ort:
-status:
-gruppe: unbekannt
+status: lebend
+gruppe:
 tags:
   - charakter
   - spieler

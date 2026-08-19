@@ -3,14 +3,15 @@ name: Vényáma
 aliases:
 pronomen: sie / ihr
 spieler: Jani
-rasse: unbekannt
+rasse: Firbolg
 rang:
-rolle: unbekannt
+rolle:
 klasse:
+  - Druid
 alter:
-ort:
-status:
-gruppe: unbekannt
+ort: "[[Neverwood]]"
+status: lebend
+gruppe:
 tags:
   - charakter
   - spieler

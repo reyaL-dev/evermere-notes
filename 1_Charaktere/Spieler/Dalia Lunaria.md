@@ -3,14 +3,14 @@ name: Dalia Lunaria
 aliases:
 pronomen: sie / ihr
 spieler: Rika
-rasse: unbekannt
+rasse: Eladrin
 rang:
 rolle: unbekannt
 klasse:
 alter:
 ort:
-status:
-gruppe: unbekannt
+status: inaktiv
+gruppe:
 tags:
   - charakter
   - spieler
