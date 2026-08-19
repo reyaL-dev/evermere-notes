@@ -50,7 +50,6 @@ Detailliertere Beschreibung des Aussehens, was auch eventuell in den Bildern nic
 
 ---
 ## Herkunft
-
 Keira stammt nicht aus dem [[Neverwood]]. Als Kleinkind wurde sie von ihren Eltern in die Zofenschaft gegeben oder verkauft. Warum, weiß sie bis heute nicht.  
 
 > [!question]- Spoiler: Der wahre Grund
@@ -116,3 +115,16 @@ Ruhm oder Anerkennung bedeuten ihr wenig. Sie hat kein Bedürfnis, als Heldin wa
 > [!tip]- Spoiler: Was sie wirklich denkt, wenn man sie unterschätzt
 > Es gefällt ihr sogar, wenn andere sie zunächst unterschätzen oder für eine etwas zerstreute Kräutersammlerin oder wandernde Musikerin halten. Umso größer ist die Überraschung, wenn sie in entscheidenden Momenten genau weiß, was zu tun ist, oder Fähigkeiten zeigt, die niemand erwartet hätte.
 > Dabei verfolgt sie nie die Absicht, andere bewusst zu täuschen oder zu manipulieren. Sie verstellt sich nicht, sie sieht einfach keinen Grund sich ständig beweisen zu müssen. Wer sie unterschätzt, tut das aus eigenem Urteil, nicht weil Keira es darauf angelegt hätte. Störend findet sie es höchstens, wenn selbst ihre engsten Verbündeten sie unterschätzen.
+
+
+# Beziehungen
+## Zu den Spielercharakteren
+### *(Spielercharakter hier eintragen)*
+
+## NPC
+### *(NPC hier eintragen)*
+
+
+# Trivia
+- Tolle Random infos
+- Bissel andere infos
