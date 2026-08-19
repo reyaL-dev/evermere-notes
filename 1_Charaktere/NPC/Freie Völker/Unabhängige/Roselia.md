@@ -4,7 +4,7 @@ aliases:
 pronomen: sie / ihr
 rasse: Elf
 rang:
-rolle: Rangerin
+rolle: Ranger
 domäne:
 gruppe:
 ort: "[[Neverwood]]"

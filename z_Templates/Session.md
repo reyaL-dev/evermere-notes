@@ -19,7 +19,7 @@ Kurzer Überblick was diese Session passiert ist (2-3 Sätze).
 > Direkt hier verlinken, z.B. [[Neuer NPC]] 
 
 ## Neue Orte
-> [[Neuer Ort]] – Datei bei Bedarf unter `2_Orte/` anlegen.
+> [[Neuer Ort]] - Datei bei Bedarf unter `2_Orte/` anlegen.
 
 ## Offene Fäden / Quests
 - 

@@ -1,7 +1,6 @@
 ---
 name: Neverwood
 typ: Wald
-region:
 status: verflucht
 tags:
   - ort

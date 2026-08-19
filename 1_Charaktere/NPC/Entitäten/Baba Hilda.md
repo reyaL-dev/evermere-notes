@@ -17,7 +17,7 @@ tags:
 ---
 
 > [!quote] Kurzcharakterisierung
-> Der Schatten über dem [[Neverwood]]. Ihr Fluch greift langsam um sich — Trolle kommen näher, Bewohner verschwinden, und wer ihr begegnet, kehrt selten unverändert zurück.
+> Der Schatten über dem [[Neverwood]]. Ihr Fluch greift langsam um sich, Trolle kommen näher, Bewohner verschwinden, und wer ihr begegnet, kehrt selten unverändert zurück.
 
 > [!infobox]
 > # `=this.file.name`
