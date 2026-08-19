@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "z_Templates/Spieler.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Keira Krabalde"
+              "title": "Spieler"
             }
           }
         ]
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charaktere/NPC/Entitäten/Zuya.md",
+                "file": "z_Templates/Spieler.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,25 +197,28 @@
   },
   "active": "b160ab238cab93dd",
   "lastOpenFiles": [
-    "Charaktere/Spieler/Corvina.md",
+    "z_Templates/Session.md",
+    "z_Templates/Spieler.md",
+    "z_Bilder/NPC-1786694082097.webp",
+    "z_Bilder/NPC-1786694125111.webp",
+    "Charaktere/Spieler/Valdrik Eldefur.md",
     "Charaktere/Spieler/Leryn Linmund.md",
     "Charaktere/Spieler/Dalia Lunaria.md",
-    "z_Templates/Spieler.md",
+    "Charaktere/Spieler/Corvina.md",
     "Charaktere/Spieler/Keira Krabalde.md",
-    "Charaktere/Spieler/Valdrik Eldefur.md",
+    "z_Bilder/Keira Krabalde-1787157069835.webp",
+    "z_Bilder/Keira_Bild.png",
     "Charaktere/Spieler/Vényáma.md",
     "Charaktere/NPC/Entitäten/Zuya.md",
     "Charaktere/NPC/Entitäten/Baba Hilda.md",
     "Charaktere/NPC/Freie Völker/Roselia.md",
     "Charaktere/NPC/Freie Völker/Blanche.md",
     "Orte/Land/Neverwood.md",
-    "z_Templates/Session.md",
     "z_Templates/Ort.md",
     "z_Templates/NPC.md",
     "z_Templates/Fraktion.md",
     "z_Templates",
     "z_Bilder/Zuya_Bild.png",
-    "z_Bilder/Keira_Bild.png",
     "Unbenannt.base",
     "Unbenannt 1.base",
     "Unbenannt 2.base",
