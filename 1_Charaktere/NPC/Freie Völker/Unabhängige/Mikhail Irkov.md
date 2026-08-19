@@ -1,5 +1,5 @@
 ---
-name: Mikhail
+name: Mikhail Irkov
 aliases:
 pronomen: er / ihm
 rasse:
