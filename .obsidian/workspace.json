@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "Charaktere/Spieler/Corvina.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Keira Krabalde"
+              "title": "Corvina"
             }
           }
         ]
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "Charaktere/Spieler/Corvina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,14 +217,14 @@
   },
   "active": "b160ab238cab93dd",
   "lastOpenFiles": [
-    "z_Templates/Spieler.md",
+    "Charaktere/Spieler/Leryn Linmund.md",
     "Charaktere/Spieler/Keira Krabalde.md",
+    "z_Templates/Spieler.md",
     "Charaktere/Spieler/Corvina.md",
     "z_Templates/Session.md",
     "z_Bilder/NPC-1786694082097.webp",
     "z_Bilder/NPC-1786694125111.webp",
     "Charaktere/Spieler/Valdrik Eldefur.md",
-    "Charaktere/Spieler/Leryn Linmund.md",
     "Charaktere/Spieler/Dalia Lunaria.md",
     "z_Bilder/Keira Krabalde-1787157069835.webp",
     "z_Bilder/Keira_Bild.png",
