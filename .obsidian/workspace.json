@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Charaktere/Spieler/Keira Krabalde.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Keira Krabalde"
@@ -179,22 +179,25 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "obsidian-git:Open Git source control": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b160ab238cab93dd",
   "lastOpenFiles": [
+    "Charaktere/Spieler/Leryn Linmund.md",
+    "Charaktere/Spieler/Keira Krabalde.md",
+    "z_Templates/Spieler.md",
     "Charaktere/Spieler/Corvina.md",
     "Charaktere/NPC/Entitäten/Baba Hilda.md",
     "Charaktere/Spieler/Vényáma.md",
     "Charaktere/Spieler/Valdrik Eldefur.md",
-    "Charaktere/Spieler/Leryn Linmund.md",
     "Charaktere/Spieler/Dalia Lunaria.md",
     "Orte/Land/Neverwood.md",
     "Charaktere/NPC/Freie Völker/Blanche.md",
     "Charaktere/NPC/Entitäten/Zuya.md",
-    "Charaktere/Spieler/Keira Krabalde.md",
-    "z_Templates/Spieler.md",
     "z_Templates/Session.md",
     "z_Templates/Ort.md",
     "z_Templates/NPC.md",

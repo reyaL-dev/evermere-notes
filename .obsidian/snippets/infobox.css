@@ -1,0 +1,116 @@
+/* ==========================================================
+   Infobox-Snippet für Dragonlance
+   Installation: Diese Datei nach .obsidian/snippets/ kopieren,
+   dann in Einstellungen → Erscheinungsbild → CSS-Snippets aktivieren.
+   ========================================================== */
+
+.infobox {
+  float: right;
+  clear: right;
+  width: 260px;
+  margin: 0 0 1em 1.5em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+  font-size: 0.85em;
+  overflow: hidden;
+}
+
+.infobox-title {
+  font-weight: 700;
+  font-size: 1.1em;
+  text-align: center;
+  padding: 0.5em;
+  background: var(--background-secondary-alt);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.infobox-subtitle {
+  text-align: center;
+  font-style: italic;
+  padding: 0.3em 0.5em;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+.infobox-slider {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: var(--background-primary);
+}
+
+.infobox-slider img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.infobox-slider-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.45);
+  color: #fff;
+  border: none;
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1em;
+  line-height: 1;
+}
+
+.infobox-slider-arrow:hover {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.infobox-slider-arrow.prev {
+  left: 6px;
+}
+
+.infobox-slider-arrow.next {
+  right: 6px;
+}
+
+.infobox-slider-dots {
+  position: absolute;
+  bottom: 6px;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.infobox-slider-dots span {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  cursor: pointer;
+}
+
+.infobox-slider-dots span.active {
+  background: #fff;
+}
+
+.infobox-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.infobox-table td {
+  padding: 0.35em 0.6em;
+  border-top: 1px solid var(--background-modifier-border);
+  vertical-align: top;
+}
+
+.infobox-table td.infobox-label {
+  font-weight: 600;
+  color: var(--text-muted);
+  width: 42%;
+  white-space: nowrap;
+}
