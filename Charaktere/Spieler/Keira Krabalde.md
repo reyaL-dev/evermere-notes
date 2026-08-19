@@ -1,14 +1,21 @@
 ---
 name: Keira Krabalde
+aliases:
+pronomen: sie / ihr
 spieler: Sameen
 rasse: Tiefling
 rolle: Hexe
-klasse: Bard, Warlock
+klasse:
+  - Bard
+  - Warlock
+alter: 32
+ort: "[[Neverwood]]"
+status: lebend
 gefährte: "[[Zuya]]"
 fraktion: "[[Zirkel der Mondfedern]]"
 tags:
   - charakter
-  - pnp
+  - spieler
   - neverwood
 ---
  > [!quote] Kurzcharakterisierung
