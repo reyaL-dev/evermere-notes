@@ -1,6 +1,6 @@
 ---
 datum: <% tp.date.now("YYYY-MM-DD") %>
-gruppe: Dragonlance
+gruppe: Evermere
 ort:
 tags:
   - session

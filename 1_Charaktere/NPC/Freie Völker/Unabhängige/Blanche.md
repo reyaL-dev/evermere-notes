@@ -4,17 +4,19 @@ aliases:
 pronomen: sie / ihr
 rasse: Elf
 rang:
-rolle:
+rolle: Druidin, Heilerin
 domäne:
 gruppe:
 ort: "[[Neverwood]]"
 status: lebend
 tags:
+  - charakter
   - npc
+  - neverwood
 ---
 
 > [!quote] Kurzcharakterisierung
->
+> Druidin und etablierte Heilerin mit sehr ruhigem Gemüt.
 
 > [!infobox]
 > # `=this.file.name`
@@ -34,7 +36,11 @@ tags:
 ```
 
 ## Persönlichkeit
+Sehr ruhiges Gemüt.
 
 # Bezug zu den Spielercharakteren
+
+## [[Keira Krabalde]]
+Gewährte [[Keira Krabalde|Keira]] gemeinsam mit [[Roselia]] immer wieder Obdach und Hilfe, während diese im Dorf am Rande des [[Neverwood]] lebte.
 
 # Trivia

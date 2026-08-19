@@ -4,6 +4,7 @@ aliases:
 pronomen: sie / ihr
 spieler: Sameen
 rasse: Tiefling
+rang:
 rolle: Hexe
 klasse:
   - Bard
@@ -11,16 +12,17 @@ klasse:
 alter: 32
 ort: "[[Neverwood]]"
 status: lebend
+gruppe: "[[Zirkel der Mondfedern]]"
 gefährte: "[[Zuya]]"
-fraktion: "[[Zirkel der Mondfedern]]"
 tags:
   - charakter
   - spieler
   - neverwood
 ---
- > [!quote] Kurzcharakterisierung
- > Neugierig, verspielt und scheinbar zerstreut... bis der Moment kommt, in dem sie genau weiß, was zu tun ist.
+> [!quote] Kurzcharakterisierung
+> Neugierig, verspielt und scheinbar zerstreut... bis der Moment kommt, in dem sie genau weiß, was zu tun ist.
 
+---
 > [!infobox]
 > # `=this.file.name`
 > ![[Keira Krabalde-1787157069835.webp|250]]
@@ -61,6 +63,8 @@ Ruhm oder Anerkennung bedeuten ihr wenig. Sie hat kein Bedürfnis, als Heldin wa
 > [!warning]- Spoiler: Was sie wirklich denkt, wenn man sie unterschätzt
 > Es gefällt ihr sogar, wenn andere sie zunächst unterschätzen oder für eine etwas zerstreute Kräutersammlerin oder wandernde Musikerin halten. Umso größer ist die Überraschung, wenn sie in entscheidenden Momenten genau weiß, was zu tun ist, oder Fähigkeiten zeigt, die niemand erwartet hätte.
 > Dabei verfolgt sie nie die Absicht, andere bewusst zu täuschen oder zu manipulieren. Sie verstellt sich nicht, sie sieht einfach keinen Grund sich ständig beweisen zu müssen. Wer sie unterschätzt, tut das aus eigenem Urteil, nicht weil Keira es darauf angelegt hätte. Störend findet sie es höchstens, wenn selbst ihre engsten Verbündeten sie unterschätzen.
+
+# Biographie
 
 ## Hintergrund
 Keira stammt nicht aus dem [[Neverwood]]. Als Kleinkind wurde sie von ihren Eltern in die Zofenschaft gegeben oder verkauft. Warum, weiß sie bis heute nicht.  
@@ -113,8 +117,6 @@ Seitdem ist sie unterwegs, sammelt Wissen über Flüche und Geister, hilft freie
 ### [[Dalia Lunaria]]
 
 ### [[Leryn Linmund]]
-
-### [[Keira Krabalde]]
 
 ### [[Valdrik Eldefur]]
 
