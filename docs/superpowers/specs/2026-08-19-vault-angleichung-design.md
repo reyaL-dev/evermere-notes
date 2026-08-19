@@ -1,7 +1,7 @@
 ---
 datum: 2026-08-19
 typ: design-spec
-status: entwurf
+status: umgesetzt
 tags:
   - meta
   - spec
