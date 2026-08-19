@@ -11,6 +11,7 @@ ort:
 status:
 tags:
   - npc
+  - stragovia
 ---
 
 > [!quote] Kurzcharakterisierung
