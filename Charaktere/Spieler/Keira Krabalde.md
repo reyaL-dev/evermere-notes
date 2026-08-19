@@ -62,7 +62,7 @@ Immer wieder fand sie auch Obdach und Hilfe bei Blanche und **Roselia**:
 
 - **[[Blanche]]** ist eine Druidin und etablierte Heilerin mit sehr ruhigem Gemüt.
 
-- **Roselia**, deutlich aufgeweckter, mit rotem, im Sonnenlicht schimmerndem Haar, ist als Rangerin vor allem für ihre Tracking- und Fernkampffähigkeiten begehrt.
+- **[[Roselia]]**, deutlich aufgeweckter, mit rotem, im Sonnenlicht schimmerndem Haar, ist als Rangerin vor allem für ihre Tracking- und Fernkampffähigkeiten begehrt.
 
 
 Von anderen Dorfbewohnern lernte sie außerdem das Spiel der Panflöte und übernahm ihre Verspieltheit und Lebensbejahung — sodass sie trotz ihres eigentlich kargen Lebens ein kleiner Freudenschimmer für die hiesige Bevölkerung blieb. Ihre Unabhängigkeit genoss sie dabei sehr.

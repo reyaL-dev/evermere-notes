@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charaktere/Spieler/Keira Krabalde.md",
+                "file": "Charaktere/NPC/Freie Völker/Roselia.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Keira Krabalde"
+              "title": "Roselia"
             }
           }
         ]
@@ -162,9 +162,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "18add3fc098cd4ef",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,16 +197,17 @@
   },
   "active": "b160ab238cab93dd",
   "lastOpenFiles": [
-    "Charaktere/Spieler/Leryn Linmund.md",
+    "Charaktere/NPC/Freie Völker/Blanche.md",
+    "Charaktere/NPC/Freie Völker/Roselia.md",
     "Charaktere/Spieler/Keira Krabalde.md",
-    "z_Templates/Spieler.md",
+    "Orte/Land/Neverwood.md",
+    "Charaktere/Spieler/Dalia Lunaria.md",
     "Charaktere/Spieler/Corvina.md",
+    "Charaktere/Spieler/Leryn Linmund.md",
+    "z_Templates/Spieler.md",
     "Charaktere/NPC/Entitäten/Baba Hilda.md",
     "Charaktere/Spieler/Vényáma.md",
     "Charaktere/Spieler/Valdrik Eldefur.md",
-    "Charaktere/Spieler/Dalia Lunaria.md",
-    "Orte/Land/Neverwood.md",
-    "Charaktere/NPC/Freie Völker/Blanche.md",
     "Charaktere/NPC/Entitäten/Zuya.md",
     "z_Templates/Session.md",
     "z_Templates/Ort.md",

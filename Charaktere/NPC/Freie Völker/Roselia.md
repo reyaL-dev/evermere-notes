@@ -1,5 +1,5 @@
 ---
-name: Blanche
+name: Roselia
 aliases:
 pronomen: sie / ihr
 rasse: Elf
