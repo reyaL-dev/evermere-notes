@@ -34,7 +34,7 @@ Sie half, wo immer Unterstützung gebraucht wurde: Feuerholz sammeln, entlaufene
 
 Immer wieder fand sie auch Obdach und Hilfe bei Blanche und **Roselia**:
 
-- **Blanche** ist eine Druidin und etablierte Heilerin mit sehr ruhigem Gemüt.
+- **[[Blanche]]** ist eine Druidin und etablierte Heilerin mit sehr ruhigem Gemüt.
 
 - **Roselia**, deutlich aufgeweckter, mit rotem, im Sonnenlicht schimmerndem Haar, ist als Rangerin vor allem für ihre Tracking- und Fernkampffähigkeiten begehrt.
 
