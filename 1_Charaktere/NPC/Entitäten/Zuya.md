@@ -75,7 +75,7 @@ Selbst als [[Keira Krabalde|Keira]] und ihre Gruppe unter dem Einfluss von [[Bab
 Zuya war es auch, die [[Vényáma]] zur Gruppe führte.
 
 > [!question]- Spoiler: Wie und warum
-> Die genauen Umstände, wie Zuya [[Vényáma]] fand und warum sie ausgerechnet sie zur Gruppe leitete, sind noch nicht abschließend ausgearbeitet. Möglicher Ansatzpunkt: [[Vényáma]] könnte über eigene Fähigkeiten oder eine eigene Verbindung verfügen, die für den Kampf gegen [[Baba Hilda]] von Bedeutung ist — ein Grund, warum Zuya sie gezielt ausgewählt hat statt es dem Zufall zu überlassen.
+> Die genauen Umstände, wie Zuya [[Vényáma]] fand und warum sie ausgerechnet sie zur Gruppe leitete, sind noch nicht abschließend ausgearbeitet. Möglicher Ansatzpunkt: [[Vényáma]] könnte über eigene Fähigkeiten oder eine eigene Verbindung verfügen, die für den Kampf gegen [[Baba Hilda]] von Bedeutung ist, ein Grund, warum Zuya sie gezielt ausgewählt hat statt es dem Zufall zu überlassen.
 
 # Trivia
 - Ihre feenartige Gestalt ist eine Schneeeule mit ungewöhnlich langen Ohrfedern, das Merkmal, an dem sie sich von gewöhnlichen Schneeeulen unterscheiden lässt.
