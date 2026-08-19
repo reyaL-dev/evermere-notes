@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787160628250-sgv81t3co",
+  "providerId": "claude",
+  "title": "Sync Vault with Dragonlance directory",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787160628254,
+  "lastActivityAt": 1787160945531,
+  "sessionId": "2e8168ed-92bb-41c7-a333-c1d68dd9c563",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "2e8168ed-92bb-41c7-a333-c1d68dd9c563"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1718,
+    "cacheReadInputTokens": 59673,
+    "contextWindow": 1000000,
+    "contextTokens": 61393,
+    "percentage": 6
+  }
+}

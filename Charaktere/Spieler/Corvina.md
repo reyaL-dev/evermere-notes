@@ -1,6 +1,6 @@
 ---
 name: Corvina
-spieler: Zero
+spieler: Finn
 rasse: unbekannt
 rolle: unbekannt
 fraktion: unbekannt
