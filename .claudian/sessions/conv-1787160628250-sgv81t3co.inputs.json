@@ -15,6 +15,33 @@
       "contentDigest": "1784ca87731309036cdaa660f298d47f9f388bd1439c8b9d07962a1e54d1d507",
       "providerUserMessageId": "39fe9ec0-d4d1-4b24-b500-6514e7d51cb8",
       "providerAssistantMessageId": "0dde9980-5e85-4247-9f2c-0a3055580236"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787161062461-dewtndw",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787161062454-pxp0njg",
+      "timestamp": 1787161062454,
+      "rawDisplayText": "ok",
+      "canonicalText": "ok",
+      "images": [],
+      "contentDigest": "a15fdd33dc1df37f999f22917173241f57829b37005dde84226d011de2ad0df3",
+      "providerUserMessageId": "afe48e53-32ce-4f29-87fd-06d47eb601ef",
+      "providerAssistantMessageId": "a78cb7d8-bc27-486f-a881-4c4578bb5d81"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787161250512-kk1ld6v",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787161250508-9tm3oow",
+      "timestamp": 1787161250508,
+      "rawDisplayText": "Implementiere alles.",
+      "canonicalText": "Implementiere alles.",
+      "images": [],
+      "contentDigest": "323dd11cc1e5b9cc8df8a6b4e6c15560a0e67e356491533fad1a11ed4f1f7a47",
+      "providerUserMessageId": "b9a68318-8d54-42a7-b932-f73d12dc2aac"
     }
   ]
 }
